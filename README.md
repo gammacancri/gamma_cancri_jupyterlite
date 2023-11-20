@@ -1,5 +1,6 @@
 # gamma cancri jupyterlite
-jupyterlite assignment coursera 
+
+**jupyterlite assignment coursera** 
 
 **Author**
 SHYANN WALEWANGKO
